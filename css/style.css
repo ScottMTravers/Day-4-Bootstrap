@@ -46,3 +46,7 @@
 .gutter-bottom-large {
     margin-bottom: 64px;
 }
+
+.gutter-top-small {
+    margin-top: 24px;
+}
